@@ -1,14 +1,14 @@
-# PhiloAgents Town 📖
+# MindCraft Town 📖
 
-![Philosopher Town](public/assets/game_screenshot.png)
+![Philosophers Town](public/assets/game_screenshot.png)
 
-PhiloAgents Town is the interactive UI component that allows you to engage in philosophical discussions with the Philosopher Agents. Discuss consciousness with Descartes, question Leibniz on logic, or challengue Chomsky on language. 
+MindCraft Town is the interactive UI component that allows you to engage in philosophical discussions with the Mind Agents. Discuss consciousness with Descartes, question Leibniz on logic, or challengue Chomsky on language. 
 
 # Overview
 
 This web-based game features a Pokemon-style town where you can explore and engage with famous philosophers and thinkers. Each character has their own unique perspective and conversational style based on their works and ideas.
 
-The UI is built with Phaser 3, a powerful HTML5 game framework, and connects to a backend API that powers the philosopher agents' conversational abilities using LLM Agents.
+The UI is built with Phaser 3, a powerful HTML5 game framework, and connects to a backend API that powers the Mind agents' conversational abilities using LLM Agents.
 
 
 # Getting Started
